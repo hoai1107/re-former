@@ -5,7 +5,7 @@ Project description link: https://www.theodinproject.com/lessons/ruby-on-rails-f
 Main things in this project:
 - Generate a model/controller for User
 ```bash
-rails g controller/model
+rails g controller/model <name-here>
 ```
 - Learn how to build forms in Rails template
 ```html.erb
